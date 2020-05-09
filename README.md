@@ -1,4 +1,4 @@
-# vue-electron-basic-setup
+# Vue-Electron manual setup
 
 In the following steps I will explain how to setup a Vue-Project with Electron and Electron-Builder from scratch and without huge boilerplate. I know there are ready-to-use solutions like [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue). This was just an experiment how to implement it by myself. I'm just describing the basic steps to make it work. This can be extended, optimized and configured in many ways. Maybe this helps someone :)
 
